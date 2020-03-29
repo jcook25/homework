@@ -1,0 +1,57 @@
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.green {
+  stroke: green;
+}
+
+.blue {
+  stroke: blue;
+}
+
+.text {
+  font-size: 16px;
+  text-anchor: middle;
+}
+
+.smurf-text {
+  fill: blue;
+}
+
+.dow-text {
+  font-size: 16px;
+  fill: green;
+  text-anchor: middle;
+}
+.smurfcircle{
+  fill : blue
+}
+
+.dowcircle{
+  fill : green;
+  /* r : 10; */
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  padding: 2px;
+  font: 12px sans-serif;
+  text-align: center;
+  background: orange;
+  border: 0;
+  border-radius: 10px;
+}
+
+.axisText {
+  font-family: sans-serif;
+  font-weight: bold;
+  fill: #551aaf;
+  text-anchor: middle;
+}
+
+
